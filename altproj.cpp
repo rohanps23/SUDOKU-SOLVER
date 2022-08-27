@@ -1,12 +1,4 @@
-/*
-Matt Olson
-Alex Izydorczyk
 
-Code to implement Douglas Rachford splitting to to solve sudoku puzzle
-The idea to use DR to solve sudoku comes from the paper:
-"Recent Results on Douglas–Rachford Methods for Combinatorial Optimization 
-Problems"
-*/
 
 #include "altproj.hpp"
 #include <iostream>
