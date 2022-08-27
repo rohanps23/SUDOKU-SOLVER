@@ -1,6 +1,4 @@
 /*
-Matt Olson
-Alex Izydorczyk
 
 Implement Board class to hold state of sudoku game
 */
