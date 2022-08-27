@@ -1,9 +1,4 @@
-/*
-Matt Olson
-Alex Izydorczyk
 
-Main driver of Sudoku game
-*/
 #include <iostream>
 #include <regex>
 #include <sstream>
